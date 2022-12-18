@@ -1,0 +1,54 @@
+body{
+background-color: #c6c6c6;
+color: black;
+margin: auto;
+max-width: 1000px;
+margin: auto;
+word-spacing: 0px;
+font-weight: normal;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Avatar {
+margin: 20px 10px 10px;
+width: 250px;
+border-radius: 30px;
+}
+.main {
+background-color: #d8d8d8;
+border-radius: 20px;
+line-height: 1.5;
+width: 800px;
+margin: 10px 10px 10px 70px;
+padding: 10px 10px 10px;
+}
+.icon {
+width: 25px;
+padding-left: 5px;
+}
+ul, ol {
+background-color: #d8d8d8;
+border-radius: 20px;
+list-style: none;
+padding-left: 5px;
+}
+h1, h2 {
+border: 0px;
+text-shadow: #6f6e6e 1px 1px 0.5px;
+}
+li {
+margin-top: 10px;
+}
+strong {
+font-size: 20px;
+text-shadow: #6d6c6c 0.5px 0.5px 0.25px;
+}
+.rsslogo {
+ width: 100px;
+ display: block;
+ margin: auto;
+}
+ 
+.year {
+ text-align: center;
+ font-weight: bolder;
+}
